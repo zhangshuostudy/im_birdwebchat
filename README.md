@@ -1,0 +1,3 @@
+# im_birdwebchat
+im_birdwebchat
+三个文件夹分别是麻雀聊天的前端文件夹和后端文件夹以及数据库脚本
